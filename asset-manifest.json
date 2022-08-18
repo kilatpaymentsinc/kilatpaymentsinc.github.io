@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.a28589aa.js",
+    "main.js": "/static/js/main.9e5a856a.js",
     "static/js/787.31575047.chunk.js": "/static/js/787.31575047.chunk.js",
-    "static/media/kilat-fancy.png": "/static/media/kilat-fancy.2345913bb76e3b9d9cb8.png",
+    "static/media/kilat-fancy.png": "/static/media/kilat-fancy.7020a65365445ce521f8.png",
     "index.html": "/index.html",
     "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.a28589aa.js.map": "/static/js/main.a28589aa.js.map",
+    "main.9e5a856a.js.map": "/static/js/main.9e5a856a.js.map",
     "787.31575047.chunk.js.map": "/static/js/787.31575047.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.a28589aa.js"
+    "static/js/main.9e5a856a.js"
   ]
 }
