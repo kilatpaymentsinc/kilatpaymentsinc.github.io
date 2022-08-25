@@ -10,7 +10,7 @@ function App() {
           Kilat Payments, Inc.
         </h1>
         <p style={{ width: '50%'}}>
-          Kilat Payments, Inc. was founded in 2022 in Makati, Philippines. The company's mission is to improve efficiency and interoperability of payments systems within the Philippines and worldwide by utilizing the emerging Lightning Network protocol.
+          Kilat Payments, Inc. was founded in 2022 in Makati, Philippines. The company's mission is to improve efficiency and interoperability of payments systems within the Philippines, while at the same time promoting financial inclusion.
         </p>
       </header>
       <footer style={{backgroundColor: '#DDD', minHeight: '320px', padding: '48px', boxSizing: 'border-box', display: 'flex', alignItems: 'center', justifyContent: 'center'}}>
